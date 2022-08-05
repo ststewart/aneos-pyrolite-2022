@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Stewart
+    given-names: Sarah T.
+    orcid: https://orcid.org/0000-0001-9606-1593
+title: ststewart/aneos-pyrolite-2022: ANEOS-PYROLITE
+version: v0.2
+date-released: 2022-08-05
